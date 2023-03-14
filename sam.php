@@ -13,3 +13,5 @@ $target = $_GET["target"];
 header("Location: " . $target);
 
 echo $_GET["user"];
+
+echo "test"
